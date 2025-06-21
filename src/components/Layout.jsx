@@ -3,7 +3,7 @@ export default function Layout(props){
     const {children} = props
     const header=(
         <header>
-            <h1 className="text-gradient">The First Program</h1>
+            <h1 className="text-gradient">Raiden Reps</h1>
             <p><strong>The 30 simple workouts program</strong></p>
         </header>
     )
