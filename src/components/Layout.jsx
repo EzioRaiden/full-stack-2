@@ -9,7 +9,7 @@ export default function Layout(props){
     )
     const footer=(
         <footer>
-            <p>Built by <a href="https://www.sourarghyade.com" target="_blank">Raiden</a><br/>Styled With <a href="https://www.fantacss.smoljames.com" target="_blank">FantaCSS</a></p>
+            <p>Built by <a href="https://6856778144dae3c4adf53c5c--sparkly-narwhal-a20c03.netlify.app/" target="_blank">Raiden</a><br/>Styled With <a href="https://www.fantacss.smoljames.com" target="_blank">FantaCSS</a></p>
         </footer>
     )
     return(
